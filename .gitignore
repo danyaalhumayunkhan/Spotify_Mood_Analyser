@@ -13,3 +13,6 @@ __pycache__/
 
 # Data files
 data/*.csv
+
+# Cache files
+.cache
